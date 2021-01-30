@@ -14,3 +14,7 @@ Run with: ./1sttest parm1 parm2 ...
 Same code in Perl
 
 Run with: perl 1sttest.pl parm1 parm2 ...
+
+- [ ] Test
+- [ ] Review
+- [ ] Release
